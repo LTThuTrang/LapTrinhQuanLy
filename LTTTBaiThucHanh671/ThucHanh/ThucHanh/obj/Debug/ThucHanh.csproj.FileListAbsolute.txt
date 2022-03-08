@@ -74,6 +74,9 @@ D:\LapTrinhQuanLy\LTTTBaiThucHanh671\ThucHanh\ThucHanh\bin\Antlr3.Runtime.pdb
 D:\LapTrinhQuanLy\LTTTBaiThucHanh671\ThucHanh\ThucHanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\LapTrinhQuanLy\LTTTBaiThucHanh671\ThucHanh\ThucHanh\obj\Debug\ThucHanh.csproj.AssemblyReference.cache
 D:\LapTrinhQuanLy\LTTTBaiThucHanh671\ThucHanh\ThucHanh\obj\Debug\ThucHanh.csproj.CoreCompileInputs.cache
-D:\LapTrinhQuanLy\LTTTBaiThucHanh671\ThucHanh\ThucHanh\obj\Debug\ThucHanh.csproj.CopyComplete
 D:\LapTrinhQuanLy\LTTTBaiThucHanh671\ThucHanh\ThucHanh\obj\Debug\ThucHanh.dll
 D:\LapTrinhQuanLy\LTTTBaiThucHanh671\ThucHanh\ThucHanh\obj\Debug\ThucHanh.pdb
+D:\LapTrinhQuanLy\LTTTBaiThucHanh671\ThucHanh\ThucHanh\bin\EntityFramework.dll
+D:\LapTrinhQuanLy\LTTTBaiThucHanh671\ThucHanh\ThucHanh\bin\EntityFramework.SqlServer.dll
+D:\LapTrinhQuanLy\LTTTBaiThucHanh671\ThucHanh\ThucHanh\bin\EntityFramework.xml
+D:\LapTrinhQuanLy\LTTTBaiThucHanh671\ThucHanh\ThucHanh\bin\EntityFramework.SqlServer.xml
