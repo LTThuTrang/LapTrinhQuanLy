@@ -84,3 +84,4 @@ D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\obj\Debug\LTTTBaiTapLon671.M
 D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\obj\Debug\LTTTBaiTapLon671.csproj.GenerateResource.cache
 D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\obj\Debug\LTTTBaiTapLon671.Migrations.Admin.resources
 D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\obj\Debug\LTTTBaiTapLon671.Migrations.Manager.resources
+D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\obj\Debug\LTTTBaiTapLon671.csproj.CopyComplete
