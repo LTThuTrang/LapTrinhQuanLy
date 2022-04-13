@@ -12,6 +12,7 @@ namespace LTTTBaiTapLon671.Models
     {
         [Key]
         public string UserID { get; set; }
+        [Required(ErrorMessage = "họ và tên không được để trống!!!")] 
         public string UserName { get; set; }
     }
 }

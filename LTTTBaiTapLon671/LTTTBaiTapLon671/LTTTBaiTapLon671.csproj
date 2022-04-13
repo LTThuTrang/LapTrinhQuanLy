@@ -148,6 +148,18 @@
     <Compile Include="Migrations\202203090518461_Manager.designer.cs">
       <DependentUpon>202203090518461_Manager.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202204130222279_hehe.cs" />
+    <Compile Include="Migrations\202204130222279_hehe.Designer.cs">
+      <DependentUpon>202204130222279_hehe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202204130255072_hihi.cs" />
+    <Compile Include="Migrations\202204130255072_hihi.Designer.cs">
+      <DependentUpon>202204130255072_hihi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202204130258076_m123.cs" />
+    <Compile Include="Migrations\202204130258076_m123.Designer.cs">
+      <DependentUpon>202204130258076_m123.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Admin.cs" />
     <Compile Include="Models\BTLDbContext.cs" />
@@ -234,6 +246,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202203090518461_Manager.resx">
       <DependentUpon>202203090518461_Manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202204130222279_hehe.resx">
+      <DependentUpon>202204130222279_hehe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202204130255072_hihi.resx">
+      <DependentUpon>202204130255072_hihi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202204130258076_m123.resx">
+      <DependentUpon>202204130258076_m123.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

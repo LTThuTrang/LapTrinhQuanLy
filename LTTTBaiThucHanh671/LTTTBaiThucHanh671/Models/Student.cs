@@ -12,6 +12,7 @@ namespace LTTTBaiThucHanh671.Models
     {
         [Key]
         public string StudnetID { get; set; }
+        [Required(ErrorMessage ="ho ten sinh vien khong duoc de trong")]
         public string StudnetName { get; set; }
     }
 }

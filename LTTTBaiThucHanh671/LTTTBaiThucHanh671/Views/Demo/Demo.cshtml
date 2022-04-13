@@ -1,0 +1,16 @@
+﻿@model LTTTBaiThucHanh671.Models.Student
+@{
+    ViewBag.Title = "Demo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.thongbao</h2>
+
+@using (Html.BeginForm())
+{
+    <label>Ma Sinh Vien</label>
+    @Html.EditorFor(model => model.StudnetID, new { htmlAttributes = new { @class = "form-control" } })
+    <label>Ten Sinh Vien</label>
+    @Html.EditorFor(model => model.StudnetName, new { htmlAttributes = new { @class = "form-control" } })
+    <input type="submit" value="gui du lieu" />
+}

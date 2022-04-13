@@ -76,7 +76,6 @@ D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\bin\System.Web.WebPages.Razo
 D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\bin\Newtonsoft.Json.xml
 D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\bin\Antlr3.Runtime.pdb
 D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\obj\Debug\LTTTBaiTapLon671.csproj.AssemblyReference.cache
 D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\obj\Debug\LTTTBaiTapLon671.csproj.CoreCompileInputs.cache
 D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\obj\Debug\LTTTBaiTapLon671.dll
 D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\obj\Debug\LTTTBaiTapLon671.pdb
@@ -84,4 +83,7 @@ D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\obj\Debug\LTTTBaiTapLon671.M
 D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\obj\Debug\LTTTBaiTapLon671.csproj.GenerateResource.cache
 D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\obj\Debug\LTTTBaiTapLon671.Migrations.Admin.resources
 D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\obj\Debug\LTTTBaiTapLon671.Migrations.Manager.resources
-D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\obj\Debug\LTTTBaiTapLon671.csproj.CopyComplete
+D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\obj\Debug\LTTTBaiTapLon671.csproj.AssemblyReference.cache
+D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\obj\Debug\LTTTBaiTapLon671.Migrations.hehe.resources
+D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\obj\Debug\LTTTBaiTapLon671.Migrations.hihi.resources
+D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\obj\Debug\LTTTBaiTapLon671.Migrations.m123.resources
