@@ -48,7 +48,7 @@ namespace LTTTBaiTapLon671.Controllers
             {
                 var MAGID = db.Managers.OrderByDescending(m => m.ManagerID).FirstOrDefault().ManagerID;
                 var newID = aukey.AutoGenerateID("MAG", MAGID);
-                ViewBag.NewADMID = newID;
+                ViewBag.NewMAGID = newID;
             }
                 return View();
         }

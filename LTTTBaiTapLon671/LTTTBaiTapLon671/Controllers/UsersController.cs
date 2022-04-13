@@ -48,7 +48,7 @@ namespace LTTTBaiTapLon671.Controllers
             {
                 var USEID = db.Users.OrderByDescending(m => m.UserID).FirstOrDefault().UserID;
                 var newID = aukey.AutoGenerateID("USE", USEID);
-                ViewBag.NewADMID = newID;
+                ViewBag.NewUSEID = newID;
             }
                 return View();
         }

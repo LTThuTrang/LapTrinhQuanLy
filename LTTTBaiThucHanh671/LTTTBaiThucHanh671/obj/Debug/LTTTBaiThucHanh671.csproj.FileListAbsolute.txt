@@ -85,3 +85,4 @@ D:\LapTrinhQuanLy\LTTTBaiThucHanh671\LTTTBaiThucHanh671\obj\Debug\LTTTBaiThucHan
 D:\LapTrinhQuanLy\LTTTBaiThucHanh671\LTTTBaiThucHanh671\obj\Debug\LTTTBaiThucHanh671.Migrations.hihi.resources
 D:\LapTrinhQuanLy\LTTTBaiThucHanh671\LTTTBaiThucHanh671\obj\Debug\LTTTBaiThucHanh671.csproj.AssemblyReference.cache
 D:\LapTrinhQuanLy\LTTTBaiThucHanh671\LTTTBaiThucHanh671\obj\Debug\LTTTBaiThucHanh671.Migrations.abc.resources
+D:\LapTrinhQuanLy\LTTTBaiThucHanh671\LTTTBaiThucHanh671\obj\Debug\LTTTBaiThucHanh671.csproj.CopyComplete

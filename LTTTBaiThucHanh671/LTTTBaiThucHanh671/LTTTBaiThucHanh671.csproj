@@ -152,6 +152,10 @@
     <Compile Include="Migrations\202204120101396_abc.Designer.cs">
       <DependentUpon>202204120101396_abc.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202204130314529_ 123.cs" />
+    <Compile Include="Migrations\202204130314529_ 123.Designer.cs">
+      <DependentUpon>202204130314529_ 123.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Employee.cs" />
     <Compile Include="Models\Person.cs" />
@@ -242,6 +246,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202204120101396_abc.resx">
       <DependentUpon>202204120101396_abc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202204130314529_ 123.resx">
+      <DependentUpon>202204130314529_ 123.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
