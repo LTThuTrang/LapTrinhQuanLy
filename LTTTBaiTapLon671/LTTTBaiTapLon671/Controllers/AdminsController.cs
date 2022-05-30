@@ -38,6 +38,7 @@ namespace LTTTBaiTapLon671.Controllers
         }
 
         // GET: Admins/Create
+        [Authorize]
         public ActionResult Create()
         {
           if (db.Admins.Count() == 0)
@@ -59,7 +60,8 @@ namespace LTTTBaiTapLon671.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "AdminID,AdminName")] Admin admin)
+        [Authorize]
+        public ActionResult Create([Bind(Include = "AdminID,AdminName,Tram,Mucnuoc")] Admin admin)
         {
             if (ModelState.IsValid)
             {
@@ -72,6 +74,7 @@ namespace LTTTBaiTapLon671.Controllers
         }
 
         // GET: Admins/Edit/5
+        [Authorize]
         public ActionResult Edit(string id)
         {
             if (id == null)
@@ -103,6 +106,7 @@ namespace LTTTBaiTapLon671.Controllers
         }
 
         // GET: Admins/Delete/5
+        [Authorize]
         public ActionResult Delete(string id)
         {
             if (id == null)

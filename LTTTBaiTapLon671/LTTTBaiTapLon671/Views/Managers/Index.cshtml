@@ -5,15 +5,18 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2>Index</h2>
+<h2>Quản lý tk user</h2>
 
 <p>
-    @Html.ActionLink("Create New", "Create")
+    @Html.ActionLink("Thêm mới", "Create")
 </p>
 <table class="table">
     <tr>
         <th>
-            @Html.DisplayNameFor(model => model.ManagerName)
+            Tên Quản Lý
+        </th>
+        <th>
+           Mực Nước
         </th>
         <th></th>
     </tr>
@@ -22,11 +25,14 @@
     <tr>
         <td>
             @Html.DisplayFor(modelItem => item.ManagerName)
+        </td> 
+        <td>
+            @Html.DisplayFor(modelItem => item.Mucnuoc)
         </td>
         <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.ManagerID }) |
-            @Html.ActionLink("Details", "Details", new { id=item.ManagerID }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.ManagerID })
+            @Html.ActionLink("Sửa", "Edit", new { id=item.ManagerID }) |
+            @Html.ActionLink("Thông Tin", "Details", new { id=item.ManagerID }) |
+            @Html.ActionLink("Xóa", "Delete", new { id=item.ManagerID })
         </td>
     </tr>
 }

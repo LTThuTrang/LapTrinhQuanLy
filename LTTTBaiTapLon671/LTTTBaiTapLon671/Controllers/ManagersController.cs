@@ -38,6 +38,7 @@ namespace LTTTBaiTapLon671.Controllers
         }
 
         // GET: Managers/Create
+        [Authorize]
         public ActionResult Create()
         {
             if (db.Managers.Count() == 0)
@@ -58,7 +59,7 @@ namespace LTTTBaiTapLon671.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "ManagerID,ManagerName")] Manager manager)
+        public ActionResult Create([Bind(Include = "ManagerID,ManagerName,Mucnuoc")] Manager manager)
         {
             if (ModelState.IsValid)
             {
@@ -71,6 +72,7 @@ namespace LTTTBaiTapLon671.Controllers
         }
 
         // GET: Managers/Edit/5
+        [Authorize]
         public ActionResult Edit(string id)
         {
             if (id == null)
@@ -102,6 +104,7 @@ namespace LTTTBaiTapLon671.Controllers
         }
 
         // GET: Managers/Delete/5
+        [Authorize]
         public ActionResult Delete(string id)
         {
             if (id == null)

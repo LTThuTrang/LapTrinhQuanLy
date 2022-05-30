@@ -87,3 +87,7 @@ D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\obj\Debug\LTTTBaiTapLon671.c
 D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\obj\Debug\LTTTBaiTapLon671.Migrations.hehe.resources
 D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\obj\Debug\LTTTBaiTapLon671.Migrations.hihi.resources
 D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\obj\Debug\LTTTBaiTapLon671.Migrations.m123.resources
+D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\obj\Debug\LTTTBaiTapLon671.Migrations.Acount.resources
+D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\obj\Debug\LTTTBaiTapLon671.Migrations.QLtram.resources
+D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\obj\Debug\LTTTBaiTapLon671.Migrations.QLtram1.resources
+D:\LapTrinhQuanLy\LTTTBaiTapLon671\LTTTBaiTapLon671\obj\Debug\LTTTBaiTapLon671.Migrations.QLtram2.resources

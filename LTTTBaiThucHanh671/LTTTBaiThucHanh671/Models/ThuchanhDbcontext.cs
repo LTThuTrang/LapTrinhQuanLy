@@ -14,10 +14,12 @@ namespace LTTTBaiThucHanh671.Models
         public virtual DbSet<Student> Students { get; set; }
         public virtual DbSet<Person> People { get; set; }
         public virtual DbSet<Employee> Employees { get; set; }
+        public virtual DbSet<Account> Accounts { get; set; }
 
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
+
         }
     }
 }

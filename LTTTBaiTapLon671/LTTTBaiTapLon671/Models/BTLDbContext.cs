@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
@@ -12,5 +13,6 @@ namespace LTTTBaiTapLon671.Models
         public virtual DbSet<User> Users { get; set; }
         public virtual DbSet<Admin> Admins { get; set; }
         public virtual DbSet<Manager> Managers { get; set; }
+        public virtual DbSet<Account> Accounts { get; set; }
     }
 }

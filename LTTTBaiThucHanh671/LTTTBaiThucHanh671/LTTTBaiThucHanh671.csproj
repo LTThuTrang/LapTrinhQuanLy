@@ -128,6 +128,7 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\DemoController.cs" />
     <Compile Include="Controllers\EmployeesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -152,12 +153,15 @@
     <Compile Include="Migrations\202204120101396_abc.Designer.cs">
       <DependentUpon>202204120101396_abc.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202204130314529_ 123.cs" />
-    <Compile Include="Migrations\202204130314529_ 123.Designer.cs">
-      <DependentUpon>202204130314529_ 123.cs</DependentUpon>
+    <Compile Include="Migrations\202204190141316_Create_Table_Account.cs" />
+    <Compile Include="Migrations\202204190141316_Create_Table_Account.Designer.cs">
+      <DependentUpon>202204190141316_Create_Table_Account.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Account.cs" />
     <Compile Include="Models\Employee.cs" />
+    <Compile Include="Models\GS.cs" />
+    <Compile Include="Models\Process\Encrytion.cs" />
     <Compile Include="Models\Person.cs" />
     <Compile Include="Models\Process\StringProcess.cs" />
     <Compile Include="Models\Student.cs" />
@@ -200,7 +204,6 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\Student\Create.cshtml" />
     <Content Include="Views\People\Create.cshtml" />
     <Content Include="Views\People\Delete.cshtml" />
     <Content Include="Views\People\Details.cshtml" />
@@ -217,6 +220,7 @@
     <Content Include="Views\Students\Edit.cshtml" />
     <Content Include="Views\Students\Index.cshtml" />
     <Content Include="Views\Demo\Demo.cshtml" />
+    <Content Include="Views\Account\Login.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -247,8 +251,8 @@
     <EmbeddedResource Include="Migrations\202204120101396_abc.resx">
       <DependentUpon>202204120101396_abc.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202204130314529_ 123.resx">
-      <DependentUpon>202204130314529_ 123.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202204190141316_Create_Table_Account.resx">
+      <DependentUpon>202204190141316_Create_Table_Account.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

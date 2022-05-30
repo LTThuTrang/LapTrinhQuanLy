@@ -42,7 +42,7 @@ namespace LTTTBaiTapLon671.Controllers
         {
             if (db.Users.Count() == 0)
             {
-                ViewBag.NewUSEID = "ADM01";
+                ViewBag.NewUSEID = "USE01";
             }
             else
             {
@@ -50,7 +50,7 @@ namespace LTTTBaiTapLon671.Controllers
                 var newID = aukey.AutoGenerateID("USE", USEID);
                 ViewBag.NewUSEID = newID;
             }
-                return View();
+            return View();
         }
 
         // POST: Users/Create

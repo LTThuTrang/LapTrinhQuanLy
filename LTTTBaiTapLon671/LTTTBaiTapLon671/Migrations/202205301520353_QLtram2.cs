@@ -1,9 +1,9 @@
-namespace LTTTBaiThucHanh671.Migrations
+namespace LTTTBaiTapLon671.Migrations
 {
     using System;
     using System.Data.Entity.Migrations;
     
-    public partial class _123 : DbMigration
+    public partial class QLtram2 : DbMigration
     {
         public override void Up()
         {

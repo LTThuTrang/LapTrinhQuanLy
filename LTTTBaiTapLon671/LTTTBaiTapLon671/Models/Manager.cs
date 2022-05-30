@@ -14,5 +14,6 @@ namespace LTTTBaiTapLon671.Models
         public string ManagerID { get; set; }
         [Required(ErrorMessage = "họ và tên không được để trống!!!")]
         public string ManagerName { get; set; }
+        public string Mucnuoc { get; set; }
     }
 }
